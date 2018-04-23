@@ -1,0 +1,8 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/bin/Debug/netcoreapp1.1/passcode.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/bin/Debug/netcoreapp1.1/passcode.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/bin/Debug/netcoreapp1.1/passcode.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/bin/Debug/netcoreapp1.1/passcode.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/bin/Debug/netcoreapp1.1/passcode.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/obj/Debug/netcoreapp1.1/passcode.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/obj/Debug/netcoreapp1.1/passcode.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/passcode/obj/Debug/netcoreapp1.1/passcode.pdb

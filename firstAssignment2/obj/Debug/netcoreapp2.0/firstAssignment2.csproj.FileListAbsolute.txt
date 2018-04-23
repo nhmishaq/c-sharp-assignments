@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/bin/Debug/netcoreapp2.0/firstAssignment2.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/bin/Debug/netcoreapp2.0/firstAssignment2.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/bin/Debug/netcoreapp2.0/firstAssignment2.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/bin/Debug/netcoreapp2.0/firstAssignment2.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/bin/Debug/netcoreapp2.0/firstAssignment2.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/obj/Debug/netcoreapp2.0/firstAssignment2.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/obj/Debug/netcoreapp2.0/firstAssignment2.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/obj/Debug/netcoreapp2.0/firstAssignment2.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/obj/Debug/netcoreapp2.0/firstAssignment2.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/firstAssignment2/obj/Debug/netcoreapp2.0/firstAssignment2.pdb

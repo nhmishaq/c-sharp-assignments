@@ -1,0 +1,18 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/bin/Debug/netcoreapp1.1/c#_assignments.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/bin/Debug/netcoreapp1.1/c#_assignments.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/bin/Debug/netcoreapp1.1/c#_assignments.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/bin/Debug/netcoreapp1.1/c#_assignments.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/bin/Debug/netcoreapp1.1/c#_assignments.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/obj/Debug/netcoreapp1.1/c#_assignments.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/obj/Debug/netcoreapp1.1/c#_assignments.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/obj/Debug/netcoreapp1.1/c#_assignments.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/bin/Debug/netcoreapp1.1/c#_assignments.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/bin/Debug/netcoreapp1.1/c#_assignments.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/bin/Debug/netcoreapp1.1/c#_assignments.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/bin/Debug/netcoreapp1.1/c#_assignments.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/bin/Debug/netcoreapp1.1/c#_assignments.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/obj/Debug/netcoreapp1.1/c#_assignments.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/obj/Debug/netcoreapp1.1/c#_assignments.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/obj/Debug/netcoreapp1.1/c#_assignments.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/obj/Debug/netcoreapp1.1/c#_assignments.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Fundamentals I Assignment/fundamentals I assignment/obj/Debug/netcoreapp1.1/c#_assignments.pdb

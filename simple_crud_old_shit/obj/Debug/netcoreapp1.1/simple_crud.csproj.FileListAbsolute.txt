@@ -1,0 +1,8 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/bin/Debug/netcoreapp1.1/simple_crud.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/bin/Debug/netcoreapp1.1/simple_crud.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/bin/Debug/netcoreapp1.1/simple_crud.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/bin/Debug/netcoreapp1.1/simple_crud.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/bin/Debug/netcoreapp1.1/simple_crud.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/obj/Debug/netcoreapp1.1/simple_crud.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/obj/Debug/netcoreapp1.1/simple_crud.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simple_crud/obj/Debug/netcoreapp1.1/simple_crud.pdb

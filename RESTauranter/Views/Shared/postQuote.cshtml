@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Registration Error Page</h1>
+        <form action="/">
+            <input type="submit" value="Back to Registration Page">
+        </form>
+        
+        <div>
+              @{
+        foreach(var error in ViewBag.errors)
+        {
+            //If there are any errors for a field...
+            if(@error.Errors.Count > 0)
+            {
+                // We show the first error for that field
+                <p>@error.Errors[0].ErrorMessage</p>
+            }
+        }
+    }
+        </div>
+
+        
+
+
+
+

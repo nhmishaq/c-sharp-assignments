@@ -1,0 +1,8 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/bin/Debug/netcoreapp1.1/dojoachi.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/bin/Debug/netcoreapp1.1/dojoachi.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/bin/Debug/netcoreapp1.1/dojoachi.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/obj/Debug/netcoreapp1.1/dojoachi.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/bin/Debug/netcoreapp1.1/dojoachi.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/bin/Debug/netcoreapp1.1/dojoachi.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/obj/Debug/netcoreapp1.1/dojoachi.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dojoachi/obj/Debug/netcoreapp1.1/dojoachi.pdb

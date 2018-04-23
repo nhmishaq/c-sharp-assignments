@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+
+ul li{
+    display: inline-block;
+    font-style: italic;
+}
+
+h3{
+    color: navy;
+    display: inline;
+}
+
+p {
+    color: red;
+}

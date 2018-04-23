@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFBF00;
+    background-color: blue;
+}
+ul li{
+    display: inline-block;
+    font-style: italic;
+}
+form{
+    color: green;
+    font-style: italic;
+}

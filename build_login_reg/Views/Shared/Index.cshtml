@@ -1,0 +1,72 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class = "wrapper">   
+    <h1>Welcome!</h1>
+
+    <p>
+
+//DONE// 1. Address ERROR
+//DONE//2. model validations
+//DONE//3. model database (do MUSIC LINQ/ CRUD assignment FIRST)
+/*
+Controllers/HomeController.cs(26,17): error CS0117: 
+'User' does not contain a definition for 'first_Name' 
+[/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/login_registration/login_registration/
+login_registration.csproj]
+Controllers/HomeController.cs(27,17): error CS0117: '
+User' does not contain a definition for 'last_Name' 
+[/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/
+login_registration/login_registration/login_registration.csproj]
+*/
+
+ 
+
+    </p>
+@model login_registration.Models.User
+    <h2>New Users, Register</h2>
+    <form action="create" method="POST">
+        <span asp-validation-for="first_name"></span>
+        <label asp-for="first_name"></label>
+        <input asp-for="first_name"/></br>
+
+        <span asp-validation-for="last_name"></span>
+        <label asp-for="last_name"></label>
+        <input asp-for="last_name"/></br>
+
+        <span asp-validation-for="email"></span>
+        <label asp-for="email"></label>
+        <input asp-for="email"/></br>
+
+        <span asp-validation-for="password"></span>
+        <label asp-for="password"></label>
+        <input asp-for="password"/></br>
+
+        <span asp-validation-for="PasswordConfirmation"></span>
+        <label asp-for="PasswordConfirmation"></label>
+        <input asp-for="PasswordConfirmation"/></br>
+        <button type="submit">Register</button>
+
+        <!-- First Name: <input name="First_Name" type="text"/></br>
+        Last Name: <input name="Last_Name" type="text"/></br>
+        Email: <input name="Email" type="text"/></br>
+        Password: <input name="Password" type="text"/></br>
+        Confirm Password: <input name="Password_Confirm" type="text"/></br>
+        <button type="submit">Register</button> -->
+    </form>
+
+
+
+
+    <h2>Login</h2>
+
+    <form action="login" method="POST">
+        Email: <input name="Email" type="text"/></br>
+        Password: <input name="Password" type="text"/></br>
+        <button type="submit">Login</button>
+    </form>
+
+
+
+</div>

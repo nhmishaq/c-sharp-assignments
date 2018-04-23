@@ -1,0 +1,8 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/bin/Debug/netcoreapp1.1/puzzles.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/bin/Debug/netcoreapp1.1/puzzles.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/bin/Debug/netcoreapp1.1/puzzles.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/obj/Debug/netcoreapp1.1/puzzles.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/obj/Debug/netcoreapp1.1/puzzles.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzles/obj/Debug/netcoreapp1.1/puzzles.pdb

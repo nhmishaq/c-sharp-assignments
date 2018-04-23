@@ -1,0 +1,17 @@
+h1{
+    background-color: red;
+    color: navy;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #ffa07a;
+}
+ul li{
+    display: inline-block;
+    font-style: italic;
+}
+img{
+    height: 100px;
+    width: 100px;
+}

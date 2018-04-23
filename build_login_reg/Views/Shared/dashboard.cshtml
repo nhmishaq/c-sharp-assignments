@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+    <body>
+
+        <h1>Welcome to the User Dashboard!</h1>
+        <form action="logouts">
+                <input type="submit" value="Logout">
+        </form>
+
+        <table>
+            <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email</th>
+                    <th>Action</th>
+            </tr>
+            @model login_registration.Models.User
+
+
+
+            @{
+                foreach (var user in ViewBag.quotedQu){
+                    <tr>
+                        <td>@user["first_name"]</td>
+                        <td>@user["last_name"]</td>
+                        <td>@user["email"]</td>
+                        <td>
+                            <form action="delete" method = "POST"><input type='submit' value='delete'></form>
+                        </td>
+                    </tr>
+                }
+            }
+        </table>  
+    </body>
+</html>
