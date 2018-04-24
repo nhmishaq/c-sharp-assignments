@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/obj/Debug/netcoreapp2.0/boxingII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/obj/Debug/netcoreapp2.0/boxingII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/obj/Debug/netcoreapp2.0/boxingII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/bin/Debug/netcoreapp2.0/boxingII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/bin/Debug/netcoreapp2.0/boxingII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/bin/Debug/netcoreapp2.0/boxingII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/bin/Debug/netcoreapp2.0/boxingII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/bin/Debug/netcoreapp2.0/boxingII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/obj/Debug/netcoreapp2.0/boxingII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/boxingII/obj/Debug/netcoreapp2.0/boxingII.pdb
