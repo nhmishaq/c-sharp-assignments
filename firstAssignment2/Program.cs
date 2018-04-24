@@ -44,18 +44,23 @@ namespace firstAssignment2
             // }
             // (Optional) Generate 10 random values and output the respective word, 
             //in relation to step three, for the generated values
-            Random rand = new Random ();
-            for (int i = 1; i <= 10 ; i++){
-                if (rand.Next(1,100) % 3 == 0 && rand.Next(1,100) % 5 != 0){
-                    Console.WriteLine(rand.Next(1,100) + "Fizz");
-                }
-                else if (rand.Next(1,100) % 3 != 0 && rand.Next(1,100) % 5 == 0){
-                    Console.WriteLine(rand.Next(1,100) + "Buzz");
-                }
-                else {
-                    continue;
-                }
-            }
+            // Random rand = new Random ();
+            // for (int i = 1; i <= 10 ; i++){
+            //     int buddy = rand.Next(1, 100);
+            //     if (buddy % 3 == 0 && buddy % 5 != 0){
+            //         Console.WriteLine(i + ". " + buddy + " Fizz");
+            //     }
+            //     else if (buddy % 3 != 0 && buddy % 5 == 0){
+            //         Console.WriteLine(i + ". " + buddy + " Buzz");
+            //     }
+            //     else if (buddy % 3 == 0 && buddy % 5 == 0){
+            //         Console.WriteLine(i + ". " + buddy + " FizzBuzz");
+            //     }
+            //     else {
+            //         Console.WriteLine(i + ". " + buddy);
+            //         continue;
+            //     }
+            // }
         }
     }
 }
