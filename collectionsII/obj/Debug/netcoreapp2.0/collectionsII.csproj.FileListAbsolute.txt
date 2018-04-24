@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/obj/Debug/netcoreapp2.0/collectionsII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/obj/Debug/netcoreapp2.0/collectionsII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/obj/Debug/netcoreapp2.0/collectionsII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/bin/Debug/netcoreapp2.0/collectionsII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/bin/Debug/netcoreapp2.0/collectionsII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/bin/Debug/netcoreapp2.0/collectionsII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/bin/Debug/netcoreapp2.0/collectionsII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/bin/Debug/netcoreapp2.0/collectionsII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/obj/Debug/netcoreapp2.0/collectionsII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/collectionsII/obj/Debug/netcoreapp2.0/collectionsII.pdb
