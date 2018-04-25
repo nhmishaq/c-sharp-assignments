@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/bin/Debug/netcoreapp2.0/basic13II.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/bin/Debug/netcoreapp2.0/basic13II.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/bin/Debug/netcoreapp2.0/basic13II.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/bin/Debug/netcoreapp2.0/basic13II.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/bin/Debug/netcoreapp2.0/basic13II.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/obj/Debug/netcoreapp2.0/basic13II.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/obj/Debug/netcoreapp2.0/basic13II.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/obj/Debug/netcoreapp2.0/basic13II.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/obj/Debug/netcoreapp2.0/basic13II.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/basic13II/obj/Debug/netcoreapp2.0/basic13II.pdb
