@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/bin/Debug/netcoreapp2.0/puzzlesII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/bin/Debug/netcoreapp2.0/puzzlesII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/bin/Debug/netcoreapp2.0/puzzlesII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/bin/Debug/netcoreapp2.0/puzzlesII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/bin/Debug/netcoreapp2.0/puzzlesII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/obj/Debug/netcoreapp2.0/puzzlesII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/obj/Debug/netcoreapp2.0/puzzlesII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/obj/Debug/netcoreapp2.0/puzzlesII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/obj/Debug/netcoreapp2.0/puzzlesII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/puzzlesII/obj/Debug/netcoreapp2.0/puzzlesII.pdb
