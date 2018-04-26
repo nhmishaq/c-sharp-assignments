@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/obj/Debug/netcoreapp2.0/humanII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/obj/Debug/netcoreapp2.0/humanII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/obj/Debug/netcoreapp2.0/humanII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/bin/Debug/netcoreapp2.0/humanII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/bin/Debug/netcoreapp2.0/humanII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/bin/Debug/netcoreapp2.0/humanII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/bin/Debug/netcoreapp2.0/humanII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/bin/Debug/netcoreapp2.0/humanII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/obj/Debug/netcoreapp2.0/humanII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/humanII/obj/Debug/netcoreapp2.0/humanII.pdb
