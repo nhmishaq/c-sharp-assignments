@@ -7,9 +7,15 @@ namespace deckOfCardsII
     
         //constructor
         public Deck(Card cards){
-            List<string> deck = new List<string>();
+            List<Card> deck = new List<Card>();
+            int counter = 0;
             for (int i = 0; i < 52; i++){
-                deck.Add(i.ToString());
+                while (counter < 12){
+                    deck.stringVal = "ace";
+                    deck.suit = "hearts";
+                    deck.val = i;
+                    counter++;
+                }
                 Console.WriteLine(deck[i]);
             }
             cards = (Deck)deck; 
