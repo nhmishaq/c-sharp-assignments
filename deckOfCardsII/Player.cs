@@ -18,7 +18,7 @@ namespace deckOfCardsII
                 return thisGuyGetsReturned;
             }
             else {
-                return;
+                return null;
             }
         }
     }
