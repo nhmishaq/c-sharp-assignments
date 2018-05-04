@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/obj/Debug/netcoreapp2.0/simpleCRUDII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/obj/Debug/netcoreapp2.0/simpleCRUDII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/obj/Debug/netcoreapp2.0/simpleCRUDII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/bin/Debug/netcoreapp2.0/simpleCRUDII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/bin/Debug/netcoreapp2.0/simpleCRUDII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/bin/Debug/netcoreapp2.0/simpleCRUDII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/bin/Debug/netcoreapp2.0/simpleCRUDII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/bin/Debug/netcoreapp2.0/simpleCRUDII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/obj/Debug/netcoreapp2.0/simpleCRUDII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/simpleCRUDII/obj/Debug/netcoreapp2.0/simpleCRUDII.pdb
