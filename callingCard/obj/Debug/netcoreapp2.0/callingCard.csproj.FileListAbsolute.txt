@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/bin/Debug/netcoreapp2.0/callingCard.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/bin/Debug/netcoreapp2.0/callingCard.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/bin/Debug/netcoreapp2.0/callingCard.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/obj/Debug/netcoreapp2.0/callingCard.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/obj/Debug/netcoreapp2.0/callingCard.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/callingCard/obj/Debug/netcoreapp2.0/callingCard.pdb
