@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.pdb
