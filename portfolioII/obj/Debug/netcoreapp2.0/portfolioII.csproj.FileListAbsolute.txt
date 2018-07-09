@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/obj/Debug/netcoreapp2.0/portfolioII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/obj/Debug/netcoreapp2.0/portfolioII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/obj/Debug/netcoreapp2.0/portfolioII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/bin/Debug/netcoreapp2.0/portfolioII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/bin/Debug/netcoreapp2.0/portfolioII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/bin/Debug/netcoreapp2.0/portfolioII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/bin/Debug/netcoreapp2.0/portfolioII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/bin/Debug/netcoreapp2.0/portfolioII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/obj/Debug/netcoreapp2.0/portfolioII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/portfolioII/obj/Debug/netcoreapp2.0/portfolioII.pdb
