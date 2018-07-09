@@ -1,0 +1,10 @@
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/bin/Debug/netcoreapp2.0/dateTimeII.deps.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/bin/Debug/netcoreapp2.0/dateTimeII.runtimeconfig.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/bin/Debug/netcoreapp2.0/dateTimeII.runtimeconfig.dev.json
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/bin/Debug/netcoreapp2.0/dateTimeII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/bin/Debug/netcoreapp2.0/dateTimeII.pdb
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/obj/Debug/netcoreapp2.0/dateTimeII.csproj.CoreCompileInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/obj/Debug/netcoreapp2.0/dateTimeII.AssemblyInfoInputs.cache
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/obj/Debug/netcoreapp2.0/dateTimeII.AssemblyInfo.cs
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/obj/Debug/netcoreapp2.0/dateTimeII.dll
+/Users/MuhammadIshaq/Desktop/DojoAssignments/c#_assignments/dateTimeII/obj/Debug/netcoreapp2.0/dateTimeII.pdb
